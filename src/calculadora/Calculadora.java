@@ -42,4 +42,8 @@ public class Calculadora {
         return Math.pow(a, b);
     }
     
+    String mensaje(){
+        return "Programa Terminado...";
+    }
+    
 }
