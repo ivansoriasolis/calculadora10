@@ -41,8 +41,10 @@ public class Calculadora {
     double potencia(double a, double b){
         return Math.pow(a, b);
     }
+    // corregido por mabhelita
     
-    string sms(string sms){
+    String sms(String sms){
         return "*" + sms + "*";
     }
+    
 }
