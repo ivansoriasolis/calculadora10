@@ -47,4 +47,8 @@ public class Calculadora {
         return "*" + sms + "*";
     }
     
+    String mensaje(){
+        return "Programa Terminado...";
+    }
+    
 }
